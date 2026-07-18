@@ -1531,6 +1531,35 @@ padding:7px 14px;
 .timeline-item{
     padding:22px;
 }
+.typing-wrapper{
+
+height:60px;
+
+justify-content:center;
+
+}
+
+#typing{
+
+width:100%;
+
+max-width:300px;
+
+white-space:nowrap;
+
+overflow:hidden;
+
+text-overflow:clip;
+
+font-size:22px;
+
+}
+
+.cursor{
+
+font-size:22px;
+
+}
 
 }
 
