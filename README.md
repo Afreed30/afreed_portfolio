@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 🚀 Afreed Shaik | Python Full Stack Developer
 
 <p align="center">
@@ -188,3 +189,6 @@ If you have an exciting idea, feel free to reach out!
 
 ---
 
+=======
+# afreed_portfolio
+>>>>>>> 33bc615a3e519dc547c01dc16b658999c6d7311b
